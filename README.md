@@ -1,0 +1,2 @@
+# Philosophy
+Certain philosophical musings
