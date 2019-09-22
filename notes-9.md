@@ -1,0 +1,25 @@
+# Meditation V
+## Essence of material things
+
+The Fifth Meditation opens with the Meditator turning his attention toward material objects. Rather than inquire into the things themselves, he inquires into her ideas regarding material things. He concludes that he can distinctly imagine extension, size, shape, position, and local motion, which is associated with duration.
+
+The Meditator also considers that there are abstract geometrical objects which do not exist in the material world, do not depend on her mind, yet are not nothing. For instance, **there are no triangles in the world, yet they have some kind of being**. Even if no triangle has ever existed anywhere outside the mind of the Meditator, triangles still have a determinate essence which is independent of the Meditator's mind. **The Meditator also denies that he has come to know the nature of triangles through the senses. After all, he can think up all sorts of shapes that he has never seen** and derive their properties as clearly and distinctly as he does with those of the triangle. These properties must all be true since the Meditator clearly and distinctly perceives them. Besides, he notes, even before he began to doubt, **he always regarded mathematical and geometrical objects as more certain than the objects of the senses.**
+
+The Meditator has reasoned that a triangle must have all the properties he ascribes to it, because the triangle exists as an idea in his mind and he clearly and distinctly perceives all these properties. He then reasons by analogy that **God exists as an idea in his mind and he clearly and distinctly perceives all of his qualities.** At the very least, then, the existence of God must be as certain as the properties of mathematical and geometrical objects since he can prove them in the same way.
+
+**Clear and distinct perceptions are always convincing, according to the Meditator.** Some perceptions may be evident, like the fact that a triangle has three sides, and some may take more thought, like the Pythagorean theorem.
+But once the Pythagorean theorem is proved, it is just as certain as any other clear and distinct perception. Similarly with God: his existence would immediately be perceived clearly and distinctly if it weren't for the confusions caused by the senses and preconceived opinions. Now that God's existence has been established, it is as certain as any other clear and distinct perception.
+
+The Meditator asserts that **God is the guarantor of his clear and distinct perceptions.** There might be times when he is not clearly and distinctly perceiving a certain truth. At such times, doubt could creep in, if not for God. Because he knows that God is not deceiving him and has endowed him with a faultless understanding and a will than cannot but assent to clear and distinct perceptions, he knows that what he clearly and distinctly perceived in the past is and remains true even if he is not currently directing his mental vision toward it.
+
+### Analysis
+
+Descartes' discussion of essence is intended as a **strong reaction against Aristotelian empiricism.** According to Aristotle, we learn the essence of, say, a triangle, by examining instances of triangular-shaped objects in the world and extracting the essence of triangles from these worldly instances. Descartes turns this formulation on its head, saying that **we learn the essence of a triangle solely through the intellect, and only afterward do we look at the real world and see if there are instances of triangles.**
+
+Descartes provides strong reasons to support his move against Aristotle. If essences are extracted from the real world, **how is it that we understand perfect triangles when there are none?** And more importantly, how do we understand abstract shapes that we have derived mathematically but have never encountered in the real world? 
+
+In Aristotle's defense, however, we could point out that while Descartes has given us a better understanding of the essences of mathematical objects, he has left us completely in the dark as to how we can know the essence of material things. Is it possible to apply the intellect to understanding the essence of, say, gold, without ever encountering gold in the world?
+
+Descartes then turns his discussion of essence toward a second proof of God's existence. Clear and distinct perceptions are made certain because God exists, and God's existence, as an essential property, is clearly and distinctly perceived. Of course, this reinforced connection only reinforces the conundrum of the Cartesian Circle.
+
+Our idea of God is the idea of a perfect being, and one of the attributes of a perfect being would be existence, since it is more perfect to exist than not to exist. In Descartes' formulation, existence is not just an attribute, but an essential property of God's, so that God cannot be conceived of without existence.
