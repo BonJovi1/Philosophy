@@ -1,6 +1,3 @@
-# Philosophy
-Certain philosophical musings
-
 ## Notes
 
 Here are some of my notes, ripped off from the internet, for "Meditations on First Philosophy" by Rene Descartes. 
