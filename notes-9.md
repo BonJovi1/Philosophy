@@ -20,6 +20,6 @@ Descartes provides strong reasons to support his move against Aristotle. If esse
 
 In Aristotle's defense, however, we could point out that while Descartes has given us a better understanding of the essences of mathematical objects, he has left us completely in the dark as to how we can know the essence of material things. Is it possible to apply the intellect to understanding the essence of, say, gold, without ever encountering gold in the world?
 
-Descartes then turns his discussion of essence toward a second proof of God's existence. Clear and distinct perceptions are made certain because God exists, and God's existence, as an essential property, is clearly and distinctly perceived. Of course, this reinforced connection only reinforces the conundrum of the Cartesian Circle.
+Descartes then turns his discussion of essence toward a second proof of God's existence. Clear and distinct perceptions are made certain because God exists, and God's existence, as an essential property, is clearly and distinctly perceived. Of course, this reinforced connection only reinforces **the conundrum of the Cartesian Circle.**
 
 Our idea of God is the idea of a perfect being, and one of the attributes of a perfect being would be existence, since it is more perfect to exist than not to exist. In Descartes' formulation, existence is not just an attribute, but an essential property of God's, so that God cannot be conceived of without existence.
