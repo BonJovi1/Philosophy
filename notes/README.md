@@ -24,4 +24,6 @@ Here are some of my notes, ripped off from the internet, to comprehend certain p
 
 ## Locke's essay on human understanding
 
-10. Locke's attack on innate ideas and concept of simple ideas 
+10. Locke's attack on innate ideas
+
+11. Concept of simple ideas
