@@ -2,7 +2,7 @@
 
 Here are some of my notes, ripped off from the internet, to comprehend certain philosphical ideas. 
 
-## Meditation on First Philosophy by Rene Descarted
+## Meditation on First Philosophy by Rene Descartes
 
 1. On what can be called into doubt
 
