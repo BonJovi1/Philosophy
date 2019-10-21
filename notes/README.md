@@ -30,3 +30,6 @@ Here are some of my notes, ripped off from the internet, to comprehend certain p
 
 ## George Berkeley 
 
+## David Hume
+
+- An Enquiry Concerning Human Understanding 
