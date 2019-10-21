@@ -27,3 +27,6 @@ Here are some of my notes, ripped off from the internet, to comprehend certain p
 10. Locke's attack on innate ideas
 
 11. Concept of simple ideas
+
+## George Berkeley 
+
