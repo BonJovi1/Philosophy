@@ -24,12 +24,15 @@ Here are some of my notes, ripped off from the internet, to comprehend certain p
 
 ## Locke's essay on human understanding
 
-10. Locke's attack on innate ideas
+1. Locke's attack on innate ideas
 
-11. Concept of simple ideas
+2. Concept of simple ideas
 
 ## George Berkeley 
 
 ## David Hume
 
 - An Enquiry Concerning Human Understanding 
+- David Giles
+
+## Kant
