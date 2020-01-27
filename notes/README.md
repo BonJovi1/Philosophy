@@ -27,12 +27,3 @@ Here are some of my notes, ripped off from the internet, to comprehend certain p
 1. Locke's attack on innate ideas
 
 2. Concept of simple ideas
-
-## George Berkeley 
-
-## David Hume
-
-- An Enquiry Concerning Human Understanding 
-- David Giles
-
-## Kant
