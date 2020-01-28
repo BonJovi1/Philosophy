@@ -19,3 +19,8 @@ Score: 26/30
 - Distinguishing between numeric and specific identities
 
 Score: 36/40
+
+3. Ethical Reasoning
+
+- "Women who dress provocatively invite sexual assaults. They have only themselves to blame for it." 
+- Trying to analyse the above argument to see whether it bears merit or not. 
