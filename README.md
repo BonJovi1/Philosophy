@@ -1,6 +1,8 @@
-# Philosophy
+# Philosophy and Ethics
 
-Certain philosophical musings
+No one really knows who we are and whether we really exist or not. Philosophy is all about the study of the fundamental nature of knowledge and existence. 'Is there a God' or 'Do humans have free will?' or 'who am I' are some examples of the most popular philosophical questions. Is it possible that we are all just meaningless dust, born to die? \
+
+Philosophy encompasses all forms knowledge - be it physics, medicine or computer science. The fact that it asks really fundamental questions about life and existence is what fascinates me. Here are some of my term papers and assignments, as part of the Philosophy/Ethics courses offered at IIIT, Hyderabad. 
 
 ## Term Papers
 
@@ -12,7 +14,8 @@ Certain philosophical musings
 Score: 26/30
 
 2. Hume on Personal Identity
-- the no-self theory - whether 'I' really exist or not. Is the permanent self really a fiction?
-- numeric and specific identities
+- The no-self theory - whether 'I' really exist or not. 
+- Is the permanent self really a fiction? 
+- Distinguishing between numeric and specific identities
 
 Score: 36/40
