@@ -25,6 +25,8 @@ Score: 36/40
 - "Women who dress provocatively invite sexual assaults. They have only themselves to blame for it." 
 - Trying to analyse the above argument to see whether it bears merit or not. 
 
+Score: 8/10
+
 4. Hume on the influencing motives of the will
 
 5. Consequentialism
