@@ -30,3 +30,5 @@ Score: 8/10
 4. Hume on the influencing motives of the will
 
 5. Consequentialism
+
+- Kant and Mill
