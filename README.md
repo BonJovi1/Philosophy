@@ -1,10 +1,10 @@
 # Philosophy and Ethics
 
-No one really knows who we are and whether we really exist or not. Philosophy is all about the study of the fundamental nature of knowledge and existence. 'Is there a God' or 'Do humans have free will?' or 'who am I' are some examples of the most popular philosophical questions. Is it possible that we are all just meaningless dust, born to die? \
+No one really knows who we are and whether we really exist or not. Philosophy is all about the study of the fundamental nature of knowledge and existence. 'Is there a God' or 'Do humans have free will?' or 'who am I' are some examples of the most popular philosophical questions. Is it possible that we are all just meaningless dust, born to die? 
 
 Philosophy encompasses all forms knowledge - be it physics, medicine or computer science. The fact that it asks really fundamental questions about life and existence is what fascinates me. Here are some of my term papers and assignments, as part of the Philosophy/Ethics courses offered at IIIT, Hyderabad. 
 
-## Term Papers
+## Philosophy, Monsoon '19
 
 1. Hume's account of causality: A Critique
 - Drawing a critique of David Hume's notion of causality and his attack on metaphysics through his empiricism and skepticism, based on his treatise, "An Enquiry concerning human understanding". 
@@ -20,15 +20,11 @@ Score: 26/30
 
 Score: 36/40
 
+## Ethics, Spring '20
+
 3. Ethical Reasoning
 
 - "Women who dress provocatively invite sexual assaults. They have only themselves to blame for it." 
 - Trying to analyse the above argument to see whether it bears merit or not. 
 
 Score: 8/10
-
-4. Hume on the influencing motives of the will
-
-5. Consequentialism
-
-- Kant and Mill
